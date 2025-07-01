@@ -1,5 +1,5 @@
 
-## Graphics/Simulation Tech Developer (Games) << Software Engineering
+## Simulation & Graphics Programmer (Games) << Software Engineering
 
 Hello, I'm Jagunmolu Oke (conqster), an aspiring game developer with a deep passion for tackling challenges in gameplay, AI, and physics simulation technologies. I primarily work with C++, Unreal Engine and Unity, and I'm currently expanding my skill in software engineering paradigms and computer architecture.
 
